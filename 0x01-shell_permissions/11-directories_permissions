@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx,g=x,o=x dir0 dir1 dir2
+chmod u=rwx,g=rx,o=rx dir0 dir1 dir2
