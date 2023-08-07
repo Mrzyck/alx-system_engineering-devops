@@ -7,7 +7,6 @@ The shell is a program that takes commands from the keyboard and gives them to t
 
 - [Description](#description)
 - [Commands](#commands)
-- [Useful Resources] (#useful)
 - [Usage](#usage)
 
 ## Description
